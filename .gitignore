@@ -1,0 +1,4 @@
+.env
+.nexmo-app
+.vscode
+*.key

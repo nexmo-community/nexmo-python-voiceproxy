@@ -1,0 +1,12 @@
+starlette
+uvicorn
+python-dotenv
+structlog
+colorama
+
+nexmo
+
+pip-tools
+black
+pylint
+flake8
