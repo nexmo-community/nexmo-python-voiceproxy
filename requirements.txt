@@ -171,8 +171,9 @@ six==1.12.0 \
     --hash=sha256:3350809f0555b11f552448330d0b52d5f24c91a322ea4a15ef22629740f3761c \
     --hash=sha256:d16a0141ec1a18405cd4ce8b4613101da75da0e9a7aec5bdd4fa804d0e0eba73 \
     # via astroid, cryptography, pip-tools, structlog
-starlette==0.12.7 \
-    --hash=sha256:849553e6dc8dd4faac5d4383219bdf49b199f3f09d60ce374c2a00a42ab7c77d
+starlette==0.26.0 \
+    --hash=sha256:0ac958cbefad8f10b157ea60958cc0ef8d34dd33b77ca011aab58f1bb34a5670 \
+    --hash=sha256:71595d3a19e9fdb359542538a89224b6bc11087170ad4473bc9051df5f5c7459
 structlog==19.1.0 \
     --hash=sha256:5feae03167620824d3ae3e8915ea8589fc28d1ad6f3edf3cc90ed7c7cb33fab5 \
     --hash=sha256:db441b81c65b0f104a7ce5d86c5432be099956b98b8a2c8be0b3fb3a7a0b1536
